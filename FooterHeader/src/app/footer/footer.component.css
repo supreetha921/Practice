@@ -1,0 +1,10 @@
+.bottom-footer{position: fixed;left: 0;bottom: 0;width: 100%;background-color: transparent;color: #FFFFFF;text-align: center;}
+.bottom-footer .footer{margin: 10px 0;line-height: 30px;}
+h5{
+    background-color: skyblue;
+    padding: 20px;
+    margin:0;
+    position: absolute;
+    width: 95.3%;
+    bottom:0;
+}
